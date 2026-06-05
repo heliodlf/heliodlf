@@ -53,36 +53,22 @@ Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
 
 ## 🚀 Linguagens e Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img alt="Java" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img alt="Kotlin" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+</div>
 
-<img alt="Spring" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+---
 
-<img alt="Python" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img alt="Git" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img alt="GitHub" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img alt="MySQL" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-<img alt="Docker" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-<img alt="VSCode" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-</p>
 ## 📊 Estatísticas
 
 <div align="center">
@@ -94,9 +80,6 @@ src="https://github-readme-stats.vercel.app/api?username=heliodlf&show_icons=tru
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliodlf&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
-
----
-
 ## 🔥 Sequência de commits
 
 <div align="center">
@@ -111,7 +94,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=heliodlf&theme=tokyo
 ## 🐍 Contribuições
 
 ![Snake animation](https://github.com/heliodlf/heliodlf/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## ✨ Frase
