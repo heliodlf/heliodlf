@@ -55,71 +55,34 @@ Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
 
 <p align="center">
 
-<img 
-    alt="Java" 
-    title="Java" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
+<img alt="Java" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-<img 
-    alt="Kotlin" 
-    title="Kotlin" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-/>
+<img alt="Kotlin" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
-<img 
-    alt="Spring" 
-    title="Spring Boot" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-/>
+<img alt="Spring" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
-<img 
-    alt="Python" 
-    title="Python" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-/>
+<img alt="Python" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img 
-    alt="Git" 
-    title="Git" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
+<img alt="Git" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img 
-    alt="GitHub" 
-    title="GitHub" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-/>
+<img alt="GitHub" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img 
-    alt="MySQL" 
-    title="MySQL" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-/>
+<img alt="MySQL" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<img 
-    alt="Docker" 
-    title="Docker" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-/>
+<img alt="Docker" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
-<img 
-    alt="VSCode" 
-    title="VSCode" 
-    width="55px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-/>
+<img alt="VSCode" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-</p>
----
+</p>---
 
 ## 📊 Estatísticas
 
