@@ -69,7 +69,7 @@ Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
 <img height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 </div>
----
+
 
 ## 📊 Estatísticas
 
