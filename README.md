@@ -51,6 +51,8 @@ Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
 
 ---
 
+---
+
 ## 🚀 Linguagens e Tecnologias
 
 <div align="center">
@@ -74,26 +76,24 @@ Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=heliodlf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=heliodlf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliodlf&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-## 🔥 Sequência de commits
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=heliodlf&theme=tokyonight"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heliodlf&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div>
 
 ---
 
-## 🐍 Contribuições
+## 🔥 Sequência de commits
 
-![Snake animation](https://github.com/heliodlf/heliodlf/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img height="180em"
+src="https://streak-stats.demolab.com?user=heliodlf&theme=midnight-purple"/>
+
+</div>
+
 ---
 
 ## ✨ Frase
