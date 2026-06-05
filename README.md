@@ -53,40 +53,72 @@ Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
 
 ## 🚀 Linguagens e Tecnologias
 
-<div style="display: inline_block"><br>
+<p align="center">
 
-<img align="center" alt="Java" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img 
+    alt="Java" 
+    title="Java" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
 
-<img align="center" alt="Kotlin" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+<img 
+    alt="Kotlin" 
+    title="Kotlin" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+/>
 
-<img align="center" alt="Spring" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img 
+    alt="Spring" 
+    title="Spring Boot" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+/>
 
-<img align="center" alt="Python" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img 
+    alt="Python" 
+    title="Python" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+/>
 
-<img align="center" alt="Git" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img 
+    alt="Git" 
+    title="Git" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
 
-<img align="center" alt="Github" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img 
+    alt="GitHub" 
+    title="GitHub" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
 
-<img align="center" alt="MySQL" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img 
+    alt="MySQL" 
+    title="MySQL" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+/>
 
-<img align="center" alt="Docker" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img 
+    alt="Docker" 
+    title="Docker" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+/>
 
-<img align="center" alt="VSCode" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img 
+    alt="VSCode" 
+    title="VSCode" 
+    width="55px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+/>
 
-</div>
-
-<br/>
-<br/>
-
+</p>
 ---
 
 ## 📊 Estatísticas
@@ -94,10 +126,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=hdsuicida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=heliodlf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdsuicida&layout=compact&langs_count=7&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliodlf&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -108,7 +140,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdsuicida&la
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=hdsuicida&theme=tokyonight"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=heliodlf&theme=tokyonight"/>
 
 </div>
 
@@ -116,7 +148,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=hdsuicida&theme=toky
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/hdsuicida/hdsuicida/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/heliodlf/heliodlf/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
