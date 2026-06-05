@@ -82,8 +82,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
 <img alt="VSCode" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-</p>---
-
+</p>
 ## 📊 Estatísticas
 
 <div align="center">
