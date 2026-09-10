@@ -14,22 +14,22 @@
 
 Olá! Me chamo Helio e estou em transição de carreira para a área de tecnologia.
 
-Atualmente estudo desenvolvimento backend com foco em Java, Kotlin e Spring Boot, além de criar projetos envolvendo Inteligência Artificial, APIs REST e automações.
+Atualmente estudo desenvolvimento backend com foco em Java, Kotlin e Spring Boot, criando projetos com APIs REST, Inteligência Artificial e automações.
 
-Também tenho experiência com edição de vídeo, design e manipulação de imagens, buscando unir programação com criatividade e identidade visual.
+Também possuo experiência com edição de vídeo, design e manipulação de imagens, buscando unir programação, criatividade e identidade visual.
 
 ---
 
 ## 🌌 Projetos em destaque
 
 ### 🤖 Lilith Assistant
-Assistente pessoal com IA inspirado em sistemas conversacionais modernos.
+Assistente pessoal com IA, reconhecimento de voz, automações e integração com ferramentas locais.
 
 ### 💰 Personal Finance API
-API REST para gerenciamento financeiro utilizando Spring Boot.
+API REST para gerenciamento financeiro desenvolvida com Java e Spring Boot.
 
 ### 📚 Estudos e Labs
-Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
+Repositório com desafios, testes e experimentos utilizando Java, Kotlin e outras tecnologias.
 
 ---
 
@@ -51,8 +51,6 @@ Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
 
 ---
 
----
-
 ## 🚀 Linguagens e Tecnologias
 
 <div align="center">
@@ -70,6 +68,7 @@ Repositório com desafios, testes e experimentos utilizando Java e Kotlin.
 
 </div>
 
+---
 
 ## 📊 Estatísticas
 
@@ -83,6 +82,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliodlf&lay
 
 </div>
 
+---
 
 ## 🔥 Sequência de commits
 
